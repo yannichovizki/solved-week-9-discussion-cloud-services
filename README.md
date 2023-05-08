@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-week-9-discussion-cloud-services
+<br>
+Week 9 Discussion“Cloud Services” Please respond to the following:
+
+Many organizations are using cloud services to provide application and database services to their users and their customers.From the e-Activities, select one (1) organization that provides application or database support through cloud services. Explain the services that the organization provides through the cloud, and examine the business operation that is enhanced through providing these services through the cloudExplain the key ways in which the previously identified business operation would be impacted if the cloud did not provide these services. Next, explain at least two (2) advantages and at least two (2) disadvantages that the organization in question incurs by providing these services through the cloud. .
